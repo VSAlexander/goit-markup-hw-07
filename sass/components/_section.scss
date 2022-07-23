@@ -1,0 +1,12 @@
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+
+  &--theme--darker {
+    background-color: #f5f4fa;
+  }
+
+  &--no--padding--top {
+    padding-top: 0;
+  }
+}
