@@ -1,0 +1,26 @@
+.page-footer {
+  padding-top: 60px;
+  padding-bottom: 60px;
+
+  background-color: #2f303a;
+
+  &__container {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+  }
+
+  &__container-address {
+    margin-right: 70px;
+  }
+
+  &__logo {
+    margin-bottom: 20px;
+
+    color: #ffffff;
+  }
+
+  &__container-form {
+    margin-left: 93px;
+  }
+}
